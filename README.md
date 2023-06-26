@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Natural Language Processing
 - 💬 Ask me about regression, classification, clustering, recommender system, or other
 - 📫 How to reach me: LinkedIn -> Anggit Setiadi | E-Mail -> anggitsetiadi1995@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His 
 
 <!---
 AgitSetiadi/AgitSetiadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
